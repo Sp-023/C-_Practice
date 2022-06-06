@@ -1,0 +1,21 @@
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\C-Sharp_Practice Report.exe
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\C-Sharp_Practice Report.deps.json
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\C-Sharp_Practice Report.runtimeconfig.json
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\C-Sharp_Practice Report.runtimeconfig.dev.json
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\C-Sharp_Practice Report.dll
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\C-Sharp_Practice Report.pdb
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.csproj.AssemblyReference.cache
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.AssemblyInfoInputs.cache
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.AssemblyInfo.cs
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.csproj.CoreCompileInputs.cache
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.dll
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.pdb
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.genruntimeconfig.cache
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\ClassA.dll
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\ClassA.pdb
+C:\Users\surya\source\repos\C-Sharp_Practice Report\obj\Debug\netcoreapp3.1\C-Sharp_Practice Report.csproj.CopyComplete
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\static and Instance.dll
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\static and Instance.pdb
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\surya\source\repos\C-Sharp_Practice Report\bin\Debug\netcoreapp3.1\Inheritance.pdb

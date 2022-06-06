@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>C_Sharp_Practice_Report</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassA\ClassA.csproj" />
+    <ProjectReference Include="..\Inheritance\Inheritance.csproj" />
+    <ProjectReference Include="..\static and Instance\static and Instance.csproj" />
+  </ItemGroup>
+
+</Project>
